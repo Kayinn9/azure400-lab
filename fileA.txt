@@ -1,1 +1,2 @@
-this is file A
+this is file A.
+test change in github and local at the same time
